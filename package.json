@@ -10,6 +10,18 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "lite-server": "^2.6.1"
-  }
+    "lite-server": "^2.6.1",
+    "typescript": "^4.5.5"
+  },
+  "dependencies": {
+    "@nestjs/cli": "^8.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahaddad98/learning-typescript.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ahaddad98/learning-typescript/issues"
+  },
+  "homepage": "https://github.com/ahaddad98/learning-typescript#readme"
 }
